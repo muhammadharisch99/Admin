@@ -1,0 +1,2 @@
+# Admin
+Sistem Informasi Klinik
